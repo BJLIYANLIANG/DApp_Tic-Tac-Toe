@@ -33,6 +33,9 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+# Specific Folders and Subfolders
+Depreciated
+
 # =========================
 # Operating System Files
 # =========================
