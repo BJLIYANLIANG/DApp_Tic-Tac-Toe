@@ -1,0 +1,14 @@
+{
+  "name": "decentralized_game_demo",
+  "version": "1.0.0",
+  "description": "Dapp Game",
+  "main": "app.js",
+  "repository": "https://github.com/matthew-mcateer/decentralized_game_demo.git",
+  "author": "matthew_mcateer",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "ethjs": "^0.3.6",
+    "node": "^10.0.0"
+  }
+}
