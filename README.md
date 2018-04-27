@@ -15,6 +15,8 @@ Gameplay
  5. Winner gets bid placed by the loser
  6. Players then have option to create another new game or join an existing one
 
+ ![Screenshot](https://github.com/matthew-mcateer/DApp_Tic-Tac-Toe/blob/master/public/img/Screenshot.png)
+
 ### Pre-installation Dependencies ###
 
 * [Installing NodeJS](https://nodejs.org/en/download/)
