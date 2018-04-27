@@ -4,6 +4,7 @@ var contract_address = "contract_address";
 var private_key = "private_key";
 var account_balance = "account_balance";
 var contract_abi = "contract_abi"
+// ABI MIGRATED TO SEPARATE FILE DIRECTORY
 // var abi_preset = [{"constant":true,"inputs":[],"name":"roomFree","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view","type":"function"},
 //                     {"constant":true,"inputs":[],"name":"getBid","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},
 //                     {"constant":true,"inputs":[],"name":"getTurn","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"},
